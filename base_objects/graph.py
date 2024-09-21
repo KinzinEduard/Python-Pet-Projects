@@ -1,7 +1,7 @@
 import typing as tp
 import random
 import numpy as np
-from PetProjects.vector import *
+from vector import *
 import matplotlib.pyplot as plt
 
 
