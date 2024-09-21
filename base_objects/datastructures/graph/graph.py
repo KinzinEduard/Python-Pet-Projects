@@ -1,7 +1,7 @@
 import typing as tp
 import random
 import numpy as np
-from vector import *
+from base_objects.vector import *
 import matplotlib.pyplot as plt
 
 
